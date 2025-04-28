@@ -1,0 +1,17 @@
+# YTMP3 - YouTube to MP3 Converter
+# https://www.y2mat.xyz
+
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Disallow specific paths
+# Currently none are disallowed
+
+# Crawl delay suggestion (optional)
+# Crawl-delay: 10
+
+# Sitemaps
+Sitemap: https://www.y2mat.xyz/sitemap.xml
+
+# End of robots.txt
